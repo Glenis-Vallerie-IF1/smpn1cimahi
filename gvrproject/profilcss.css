@@ -1,0 +1,107 @@
+body{
+    background-color: #9b9898;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.navbar{
+    background-color: #333;
+    
+}
+
+footer{
+    background-color: rgb(105, 105, 105);
+    text-align: center;
+    color:white;
+    padding: 1em 0;
+    margin:0;
+}
+
+
+.container{
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    padding: 1% 0 1% 0;
+    overflow: hidden;
+}
+
+.logo{
+    margin-left: 1%;
+    float: left;
+    background-color: rgb(85, 83, 87);
+    width: 49%;
+    height: 50px;
+    
+}
+
+.navigasi-logo img{
+    height: 100%;
+}
+
+.item{
+    margin-right: 1%;
+    float: left;
+    width: 49%;
+    background-color: rgb(138, 138, 138);
+    height: 50px;
+    
+}
+
+.item ul{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.item li{   
+    float: left;
+    list-style-type: none;
+    margin: 0 1% 0 1%;
+    padding: 16px;
+}
+
+.item li a{
+    text-decoration: 0;
+    color: black;
+}
+
+li:hover{
+    background-color: rgb(124, 121, 121);
+    
+}
+
+
+section{
+    margin-bottom: 20px;
+}
+
+section h1{
+    color: black;
+    text-align: center;
+}
+
+.art1{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    margin:10px;
+    padding:1em;
+    height: 900px;
+    
+}
+
+.art2{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    margin:10px;
+    padding:1em;
+    height: 900px;
+    
+}
+
+
+.konten{
+    width: 700px;
+    float: right;
+}
+

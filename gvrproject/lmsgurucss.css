@@ -1,0 +1,109 @@
+body{
+    background-color: #9b9898;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.navbar{
+    background-color: #333;
+    
+}
+
+
+.form-container {
+    background-color: black; /* Ubah warna latar belakang kotak menjadi hitam */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 500px;
+    color: white; /* Ubah warna teks menjadi putih */
+    margin-top: 100px;
+}
+
+.container{
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    padding: 1% 0 1% 0;
+    overflow: hidden;
+}
+
+.logo{
+    margin-left: 1%;
+    float: left;
+    background-color: rgb(85, 83, 87);
+    width: 49%;
+    height: 50px;
+    
+}
+
+.navigasi-logo img{
+    height: 100%;
+}
+
+.item{
+    margin-right: 1%;
+    float: left;
+    width: 49%;
+    background-color: rgb(138, 138, 138);
+    height: 50px;
+    
+}
+
+.item ul{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.item li{   
+    float: left;
+    list-style-type: none;
+    margin: 0 1% 0 1%;
+    padding: 16px;
+}
+
+.item li a{
+    text-decoration: 0;
+    color: black;
+}
+
+li:hover{
+    background-color: rgb(124, 121, 121);
+    
+}
+
+
+section{
+    margin-bottom: 20px;
+    
+
+}
+
+section h1{
+    color: black;
+    text-align: center;
+    
+}
+
+
+
+.konten{
+    width: 700px;
+    float: right;
+}
+
+footer{
+    background-color: rgb(105, 105, 105);
+    text-align: center;
+    color:white;
+    padding: 1em 0;
+    margin-top:190px;
+    float: left;
+    width: 1425px;
+    
+ 
+  
+    
+}
+

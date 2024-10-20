@@ -1,0 +1,123 @@
+body{
+    background-color: #9b9898;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.navbar{
+    background-color: #333;
+    
+}
+
+
+
+
+.container{
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    padding: 1% 0 1% 0;
+    overflow: hidden;
+}
+
+.logo{
+    margin-left: 1%;
+    float: left;
+    background-color: rgb(85, 83, 87);
+    width: 49%;
+    height: 50px;
+    
+}
+
+.navigasi-logo img{
+    height: 100%;
+}
+
+.item{
+    margin-right: 1%;
+    float: left;
+    width: 49%;
+    background-color: rgb(138, 138, 138);
+    height: 50px;
+    
+}
+
+.item ul{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.item li{   
+    float: left;
+    list-style-type: none;
+    margin: 0 1% 0 1%;
+    padding: 16px;
+}
+
+.item li a{
+    text-decoration: 0;
+    color: black;
+}
+
+li:hover{
+    background-color: rgb(124, 121, 121);
+    
+}
+
+
+section{
+    margin-bottom: 20px;
+    float:left;
+    margin-left: 300px;
+
+}
+
+section h1{
+    color: black;
+    text-align: center;
+    margin-right: 250px;
+    
+}
+
+.box {
+    text-align: center;
+    margin-top: 30px;
+    align-content: center;
+    cursor: pointer;
+}
+.boxkiri, .boxtengah, .boxkanan {
+    width: 290px;
+    height: 300px;
+    background-color: rgb(112, 112, 112);
+    text-align: center;
+    padding: 30px 30px;
+    margin: 70px 20px 20px 55px;
+    margin-top: 20px;
+    border-radius: 10px;
+    float: left;
+    color: white;
+}
+.boxkiri:hover, .boxtengah:hover, .boxkanan:hover{
+    background-color: rgb(72, 71, 71);
+    color: white;
+}
+
+.konten{
+    width: 700px;
+    float: right;
+}
+
+footer{
+    background-color: rgb(105, 105, 105);
+    text-align: center;
+    color:white;
+    padding: 1em 0;
+    margin:0;
+    float: left;
+    width: 1425px;
+    margin-top: 50px;
+ 
+  
+    
+}
